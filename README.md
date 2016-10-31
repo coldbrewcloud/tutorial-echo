@@ -80,4 +80,4 @@ coldbrew delete
 coldbrew cluster-delete tutorial
 ```
 
-<img src="https://raw.githubusercontent.com/coldbrewcloud/assets/master/coldbrew-cli/tutorial-echo-cluster-delete.gif?v=1" width="800">
+<img src="https://raw.githubusercontent.com/coldbrewcloud/assets/master/coldbrew-cli/tutorial-echo-cluster-delete.gif?v=2" width="800">
