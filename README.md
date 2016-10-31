@@ -39,7 +39,7 @@ Before you can deploy the application, you need to create your first cluster. Yo
 coldbrew cluster-create tutorial --disable-keypair
 ```
 
-<img src="https://raw.githubusercontent.com/coldbrewcloud/assets/master/coldbrew-cli/tutorial-eho-cluster-create.gif?v=1" width="800">
+<img src="https://raw.githubusercontent.com/coldbrewcloud/assets/master/coldbrew-cli/tutorial-echo-cluster-create.gif?v=1" width="800">
 
 _*In this tutorial, `--disable-keypair` flag was used to skip assigning EC2 key pairs to ECS Container Instances, but, that's not recommended if you need to access the instances directly (e.g. via SSH)._
 
