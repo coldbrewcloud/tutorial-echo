@@ -1,6 +1,6 @@
-# Tutorial - Simple Echo Server
+# Tutorial: Running a Go application on AWS using coldbrew-cli
 
-This is a sample project to demonstrate how to run an HTTP service on AWS using [coldbrew-cli](https://github.com/coldbrewcloud/coldbrew-cli). The sample application in this tutorial is simply return the HTTP request body data in the HTTP response.
+This is a sample project to demonstrate how to run a Go applicaiton on AWS using [coldbrew-cli](https://github.com/coldbrewcloud/coldbrew-cli). The sample application in this tutorial is simply return the HTTP request body data in the HTTP response.
 
 ## 0. Prerequisites
 
