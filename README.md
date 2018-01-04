@@ -68,7 +68,7 @@ coldbrew status
 
 ## 6. Clean Up
 
-You can delete all resources for the app and cluster using [deploy](https://github.com/coldbrewcloud/coldbrew-cli/wiki/CLI-Command:-delete) and [cluster-delete](https://github.com/coldbrewcloud/coldbrew-cli/wiki/CLI-Command:-cluster-delete) respectively.
+You can delete all resources for the app and cluster using [delete](https://github.com/coldbrewcloud/coldbrew-cli/wiki/CLI-Command:-delete) and [cluster-delete](https://github.com/coldbrewcloud/coldbrew-cli/wiki/CLI-Command:-cluster-delete) respectively.
 
 ```bash
 coldbrew delete
